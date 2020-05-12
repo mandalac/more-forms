@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/more-forms/static/css/main.613aa67d.chunk.css",
+    "main.js": "/more-forms/static/js/main.dd816efa.chunk.js",
+    "main.js.map": "/more-forms/static/js/main.dd816efa.chunk.js.map",
+    "runtime-main.js": "/more-forms/static/js/runtime-main.c17e3517.js",
+    "runtime-main.js.map": "/more-forms/static/js/runtime-main.c17e3517.js.map",
+    "static/js/2.cf50d67b.chunk.js": "/more-forms/static/js/2.cf50d67b.chunk.js",
+    "static/js/2.cf50d67b.chunk.js.map": "/more-forms/static/js/2.cf50d67b.chunk.js.map",
+    "index.html": "/more-forms/index.html",
+    "precache-manifest.e994ada260bf455d99f98f070bd1fd2f.js": "/more-forms/precache-manifest.e994ada260bf455d99f98f070bd1fd2f.js",
+    "service-worker.js": "/more-forms/service-worker.js",
+    "static/css/main.613aa67d.chunk.css.map": "/more-forms/static/css/main.613aa67d.chunk.css.map",
+    "static/js/2.cf50d67b.chunk.js.LICENSE.txt": "/more-forms/static/js/2.cf50d67b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17e3517.js",
+    "static/js/2.cf50d67b.chunk.js",
+    "static/css/main.613aa67d.chunk.css",
+    "static/js/main.dd816efa.chunk.js"
+  ]
+}

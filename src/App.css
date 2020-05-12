@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: caption;
+  background-image: url(https://www.technocrazed.com/wp-content/uploads/2015/12/Blue-Wallpaper-For-Background-5.jpg);
+  background-size: cover;
+}
+
+.Data{
+  border: 1px solid black;
+  
+  /* width: 700px;
+  margin-left: 585px; */
+  text-align: center;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/48/871/831/light-green-bright-background-wallpaper-preview.jpg);
+  background-size: cover;
+  
+
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
